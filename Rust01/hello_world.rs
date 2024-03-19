@@ -11,4 +11,5 @@ fn main(){
         5.1. this will create an executable file named "hello_world"
     6. at last we run the created executable file "./hello_world"
 
+    document: https://doc.rust-lang.org/book/ch01-02-hello-world.html
 */
